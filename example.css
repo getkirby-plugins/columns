@@ -1,0 +1,23 @@
+.columns {
+  margin-right: -2rem;
+}
+.column {
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 2rem;
+}
+.columns-1 .column {
+  width: 100%;
+}
+.columns-2 .column {
+  width: 50%;
+}
+.columns-3 .column {
+  width: 33.33%;
+}
+.columns-4 .column {
+  width: 25%;
+}
+.columns-5 .column {
+  width: 20%;
+}
