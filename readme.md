@@ -1,4 +1,4 @@
-# Columns Plugin
+# Kirby 2 Columns Plugin
 
 This is a plugin for [Kirby](http://getkirby.com/) enables a simple syntax in Kirbytext for multi-column layouts/text.
 
